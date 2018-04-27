@@ -43,7 +43,3 @@ function takeBossFight(){
 
 }
 
-
-//HINT: All visible elements on HTML web page will be represented as strings when they are accessed using javascript
-//HINT: To get the text value of the cash that's currently on the page, access it's inner text using cashLabel.innerText
-//HINT: To set the text value of the cash that's currently on the page, try using cashLabel.innerText = '(some other value)'
