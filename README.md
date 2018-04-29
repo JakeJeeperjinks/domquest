@@ -8,7 +8,7 @@ More Updates Soon!
 Made By: Jacob White Gabauer
 
 
-# Updates: 
+# Updates in the Future: 
 Log for the past 5 things you've done
 
 50/50 chance of you getting the money or not.
