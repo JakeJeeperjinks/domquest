@@ -14,7 +14,7 @@ smallQuestButton.addEventListener('click', takeSmallQuest);
 longQuestButton.addEventListener('click', takeLongQuest);
 bossFightButton.addEventListener('click', takeBossFight);
 
-//TODO: alter the behavior of the takeSmallQuest, takeLongQuest, and takeBossFight functions so that they randomly add a value within their defined ranges to your total cash!
+
 function takeSmallQuest(){
    let currentCash = cashLabel.innerText
    let newMoney=(Math.floor(Math.random() * 11+10))
